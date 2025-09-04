@@ -1,0 +1,167 @@
+{
+  "common": {
+    "back": "Back",
+    "loading": "Loading...",
+    "search": "Search",
+    "select": "Select",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "getStarted": "Get Started"
+  },
+  "languages": {
+    "english": "English",
+    "hindi": "हिंदी",
+    "marathi": "मराठी", 
+    "gujarati": "ગુજરાતી",
+    "tamil": "தமிழ்",
+    "odia": "ଓଡିଆ"
+  },
+  "languageSelection": {
+    "title": "Choose Your Language",
+    "subtitle": "Select your preferred language to continue",
+    "description": "भाषा चुनें / Choose Language"
+  },
+  "dashboard": {
+    "title": "AgriSpectra",
+    "subtitle": "Smart Agriculture Solutions",
+    "heroTitle": "Make Farming Simple",
+    "heroSubtitle": "Make Farming Simple with Smart Technology", 
+    "heroButton": "Get Started",
+    "featuresTitle": "Complete Agricultural Solutions",
+    "featuresSubtitle": "Everything farmers need - from crop care to market access - in one simple platform",
+    "footer": "© 2024 AgriSpectra. Empowering farmers with technology."
+  },
+  "features": {
+    "cropcare": {
+      "title": "CropCareAI",
+      "description": "AI-powered crop recommendations based on soil type and location. Get expert advice for better yield."
+    },
+    "seeds": {
+      "title": "Seed Access & Quality", 
+      "description": "Find certified seeds from trusted suppliers. Quality checks and direct supplier contacts."
+    },
+    "market": {
+      "title": "MarketLink",
+      "description": "Real-time crop prices from mandis. Price trends and best selling locations."
+    },
+    "transport": {
+      "title": "SmartHaul Transport",
+      "description": "Share transport costs with nearby farmers. Save ₹500-700 per trip with smart logistics."
+    }
+  },
+  "cropcare": {
+    "title": "CropCareAI",
+    "subtitle": "AI-Powered Crop Recommendations",
+    "cropName": "Crop Name",
+    "cropNamePlaceholder": "Enter crop name (e.g., Wheat, Rice)",
+    "soilType": "Soil Type", 
+    "soilTypePlaceholder": "Select your soil type",
+    "location": "Location (District, State)",
+    "locationPlaceholder": "Enter your district and state",
+    "getRecommendations": "Get AI Recommendations",
+    "chatTitle": "Ask Our AI Assistant",
+    "chatPlaceholder": "Ask anything about farming...",
+    "askAI": "Ask AI",
+    "soilTypes": {
+      "clay": "Clay Soil",
+      "sandy": "Sandy Soil", 
+      "loamy": "Loamy Soil",
+      "silt": "Silt Soil",
+      "peat": "Peat Soil",
+      "chalk": "Chalk Soil"
+    },
+    "recommendations": {
+      "title": "AI Recommendations for",
+      "fertilizers": "Recommended Fertilizers",
+      "irrigation": "Irrigation Schedule", 
+      "pestControl": "Pest Control",
+      "tips": "General Tips"
+    }
+  },
+  "seeds": {
+    "title": "Seed Access & Quality",
+    "subtitle": "Certified Seeds from Trusted Suppliers",
+    "searchTitle": "Search Seeds",
+    "searchPlaceholder": "Search by crop name or variety",
+    "availableSeeds": "Available Seeds",
+    "supplier": "Supplier",
+    "location": "Location", 
+    "certification": "Certification",
+    "germinationRate": "Germination Rate",
+    "rating": "rating",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "qualityTitle": "Quality Check Tips",
+    "qualityDescription": "Always verify these before buying seeds:",
+    "qualityChecklist": [
+      "Government Certification Available",
+      "Germination Rate > 80%", 
+      "Proper Packaging & Labeling",
+      "Manufacturing Date Within 6 Months",
+      "Supplier License Verification"
+    ],
+    "quickTip": "💡 Quick Tip",
+    "tipDescription": "Always buy seeds from certified suppliers. Check for proper packaging and verify germination rates before purchase."
+  },
+  "market": {
+    "title": "MarketLink", 
+    "subtitle": "Real-time Market Prices & Trends",
+    "selectCrop": "Select Crop",
+    "selectCropPlaceholder": "All crops",
+    "selectLocation": "Select Location", 
+    "selectLocationPlaceholder": "All locations",
+    "currentPrices": "Current Market Prices",
+    "pricePerQuintal": "per quintal",
+    "priceChange": "24h change",
+    "marketAnalysis": "Market Analysis",
+    "bestMarket": "Best Market to Sell",
+    "bestMarketDesc": "Based on current prices, selling at",
+    "higherThanAverage": "higher than average",
+    "priceHistory": "Price History (Last 7 Days)",
+    "insights": "💡 Market Insights",
+    "insightsDesc": "Prices are trending upward. Consider selling within the next 2-3 days for better returns."
+  },
+  "transport": {
+    "title": "SmartHaul Transport",
+    "subtitle": "Share Transport Costs with Nearby Farmers", 
+    "fromLocation": "From Location (Pickup)",
+    "fromPlaceholder": "Enter pickup location",
+    "toLocation": "To Location (Destination)",
+    "toPlaceholder": "Enter destination",
+    "cropType": "Crop Type & Weight",
+    "cropPlaceholder": "e.g., Wheat - 50 quintals",
+    "findPartners": "Find Transport Partners",
+    "availablePartners": "Available Transport Partners",
+    "partner": "Partner",
+    "crop": "Crop & Weight",
+    "route": "Route", 
+    "sharedCost": "Shared Cost",
+    "soloCost": "vs Solo Cost",
+    "savings": "Savings",
+    "joinTransport": "Join Transport",
+    "costCalculator": "Cost Calculator",
+    "soloTransport": "Solo Transport Cost",
+    "sharedTransport": "Shared Transport Cost",
+    "totalSavings": "Total Savings",
+    "quickTip": "💡 SmartHaul Tip",
+    "tipDescription": "Share transport with 2-3 farmers to save ₹500-700 per trip. Plan your trips during harvest season for maximum savings."
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Customize your AgriSpectra experience",
+    "language": "Language / भाषा",
+    "languageDescription": "Select your preferred language",
+    "changeLanguage": "Change Language",
+    "notifications": "Notifications",
+    "notificationsDescription": "Enable notifications for price alerts and updates",
+    "about": "About AgriSpectra",
+    "aboutDescription": "Smart agriculture solutions for modern farmers",
+    "version": "Version 1.0.0"
+  }
+}
