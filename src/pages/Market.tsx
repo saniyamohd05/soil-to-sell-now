@@ -98,7 +98,6 @@ const Market = () => {
                 <SelectValue placeholder="All crops / सभी फसलें" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="">All crops / सभी फसलें</SelectItem>
                 <SelectItem value="wheat">Wheat / गेहूं</SelectItem>
                 <SelectItem value="rice">Rice / चावल</SelectItem>
                 <SelectItem value="cotton">Cotton / कपास</SelectItem>
